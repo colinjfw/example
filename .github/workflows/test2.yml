@@ -3,7 +3,7 @@ name: Test 2
 on: [push]
 
 jobs:
-  build:
+  build2:
 
     runs-on: ubuntu-latest
     
